@@ -5,7 +5,7 @@ Name:		python-%{module}
 Version:	0.95
 Release:	1
 License:	GPL
-Group:		Development/Languages/Python
+Group:		Libraries/Python
 # http://gijsbert.org/downloads/cmemcache/cmemcache-0.95.tar.bz2
 Source0:	http://gijsbert.org/downloads/%{module}/%{module}-%{version}.tar.bz2
 # Source0-md5:	b4680c311201ee3c0456e123874a289b
